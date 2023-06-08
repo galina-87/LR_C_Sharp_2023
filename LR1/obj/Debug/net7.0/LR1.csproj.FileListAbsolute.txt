@@ -1,0 +1,15 @@
+C:\ProgramsC\C#\LR\LR1\bin\Debug\net7.0\LR1.exe
+C:\ProgramsC\C#\LR\LR1\bin\Debug\net7.0\LR1.deps.json
+C:\ProgramsC\C#\LR\LR1\bin\Debug\net7.0\LR1.runtimeconfig.json
+C:\ProgramsC\C#\LR\LR1\bin\Debug\net7.0\LR1.dll
+C:\ProgramsC\C#\LR\LR1\bin\Debug\net7.0\LR1.pdb
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.csproj.AssemblyReference.cache
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.AssemblyInfoInputs.cache
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.AssemblyInfo.cs
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.csproj.CoreCompileInputs.cache
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.dll
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\refint\LR1.dll
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.pdb
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\LR1.genruntimeconfig.cache
+C:\ProgramsC\C#\LR\LR1\obj\Debug\net7.0\ref\LR1.dll

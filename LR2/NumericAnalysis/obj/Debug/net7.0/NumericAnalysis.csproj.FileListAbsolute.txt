@@ -1,0 +1,12 @@
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\bin\Debug\net7.0\NumericAnalysis.deps.json
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\bin\Debug\net7.0\NumericAnalysis.dll
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\bin\Debug\net7.0\NumericAnalysis.pdb
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\NumericAnalysis.csproj.AssemblyReference.cache
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\NumericAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\NumericAnalysis.AssemblyInfoInputs.cache
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\NumericAnalysis.AssemblyInfo.cs
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\NumericAnalysis.csproj.CoreCompileInputs.cache
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\NumericAnalysis.dll
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\refint\NumericAnalysis.dll
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\NumericAnalysis.pdb
+C:\ProgramsC\C#\LR\LR2\NumericAnalysis\obj\Debug\net7.0\ref\NumericAnalysis.dll

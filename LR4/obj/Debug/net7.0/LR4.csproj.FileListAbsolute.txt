@@ -1,0 +1,15 @@
+C:\ProgramsC\C#\LR\LR4\bin\Debug\net7.0\LR4.exe
+C:\ProgramsC\C#\LR\LR4\bin\Debug\net7.0\LR4.deps.json
+C:\ProgramsC\C#\LR\LR4\bin\Debug\net7.0\LR4.runtimeconfig.json
+C:\ProgramsC\C#\LR\LR4\bin\Debug\net7.0\LR4.dll
+C:\ProgramsC\C#\LR\LR4\bin\Debug\net7.0\LR4.pdb
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.csproj.AssemblyReference.cache
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.AssemblyInfoInputs.cache
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.AssemblyInfo.cs
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.csproj.CoreCompileInputs.cache
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.dll
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\refint\LR4.dll
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.pdb
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\LR4.genruntimeconfig.cache
+C:\ProgramsC\C#\LR\LR4\obj\Debug\net7.0\ref\LR4.dll

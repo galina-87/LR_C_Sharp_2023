@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CKavrf2r5GPKBX64XnoCT/AZI95ipdpaOWAL7QEhRhu3lvqKKTjveiqSkjSsmbcBCcYNvIc5Zb9h18CzP9j+3Q==",
+  "dgSpecHash": "FKq4cYXEDGTWROJJfip7OHmmdtiORWPaUdYLTcyR1vlSVVE4gAWC5UsTzTSKMZzs0Vq5XTnBYFw8God/1TNhGA==",
   "success": true,
-  "projectFilePath": "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj",
+  "projectFilePath": "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\PluginBase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

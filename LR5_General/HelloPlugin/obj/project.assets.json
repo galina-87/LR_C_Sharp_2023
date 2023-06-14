@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProgramsC\\C#\\LR\\HelloPlugin\\HelloPlugin.csproj",
+      "projectUniqueName": "C:\\ProgramsC\\C#\\LR\\LR5_General\\HelloPlugin\\HelloPlugin.csproj",
       "projectName": "HelloPlugin",
-      "projectPath": "C:\\ProgramsC\\C#\\LR\\HelloPlugin\\HelloPlugin.csproj",
+      "projectPath": "C:\\ProgramsC\\C#\\LR\\LR5_General\\HelloPlugin\\HelloPlugin.csproj",
       "packagesPath": "C:\\Users\\GalAR\\.nuget\\packages\\",
-      "outputPath": "C:\\ProgramsC\\C#\\LR\\HelloPlugin\\obj\\",
+      "outputPath": "C:\\ProgramsC\\C#\\LR\\LR5_General\\HelloPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GalAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj": {
-              "projectPath": "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj",
+            "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\PluginBase.csproj": {
+              "projectPath": "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\PluginBase.csproj",
               "excludeAssets": "runtime"
             }
           }

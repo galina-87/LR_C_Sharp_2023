@@ -7,8 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR5", "LR5.csproj", "{D1977
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluginBase", "..\PluginBase\PluginBase.csproj", "{2F4B0AFB-2651-4435-A3AD-AAD033082873}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloPlugin", "..\HelloPlugin\HelloPlugin.csproj", "{41FF942E-BBE4-462B-990A-29A8773D9973}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

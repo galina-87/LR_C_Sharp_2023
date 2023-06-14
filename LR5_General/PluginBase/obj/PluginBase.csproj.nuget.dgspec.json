@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj": {}
+    "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\PluginBase.csproj": {}
   },
   "projects": {
-    "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj": {
+    "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\PluginBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj",
+        "projectUniqueName": "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\PluginBase.csproj",
         "projectName": "PluginBase",
-        "projectPath": "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj",
+        "projectPath": "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\PluginBase.csproj",
         "packagesPath": "C:\\Users\\GalAR\\.nuget\\packages\\",
-        "outputPath": "C:\\ProgramsC\\C#\\LR\\PluginBase\\obj\\",
+        "outputPath": "C:\\ProgramsC\\C#\\LR\\LR5_General\\PluginBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GalAR\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1ViXGpByD0F/r75MHWFyPK2FMaFV/LhDOWcJ5LIyB7TFPAAq1Rb36r5/9LZE2LEFU6bUXtdBunr1R/cXp4wCA==",
+  "dgSpecHash": "aaS+yDqVX1h1hBqqtWsjzbSjW85MRqBJ9S4i8oy/cCIR27h3TsU69tljDxydhBWGLEsuAau9sQ87785lRrNz9w==",
   "success": true,
-  "projectFilePath": "C:\\ProgramsC\\C#\\LR\\HelloPlugin\\HelloPlugin.csproj",
+  "projectFilePath": "C:\\ProgramsC\\C#\\LR\\LR5_General\\HelloPlugin\\HelloPlugin.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

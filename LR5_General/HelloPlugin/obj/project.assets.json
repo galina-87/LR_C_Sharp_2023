@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "PluginBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PluginBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginBase/1.0.0": {
+      "type": "project",
+      "path": "../PluginBase/PluginBase.csproj",
+      "msbuildProject": "../PluginBase/PluginBase.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "PluginBase >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GalAR\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\ProgramsC\\C#\\LR\\HelloPlugin\\HelloPlugin.csproj",
+      "projectName": "HelloPlugin",
+      "projectPath": "C:\\ProgramsC\\C#\\LR\\HelloPlugin\\HelloPlugin.csproj",
+      "packagesPath": "C:\\Users\\GalAR\\.nuget\\packages\\",
+      "outputPath": "C:\\ProgramsC\\C#\\LR\\HelloPlugin\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\GalAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj": {
+              "projectPath": "C:\\ProgramsC\\C#\\LR\\PluginBase\\PluginBase.csproj",
+              "excludeAssets": "runtime"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

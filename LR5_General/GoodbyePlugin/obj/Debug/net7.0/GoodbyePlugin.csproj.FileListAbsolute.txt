@@ -1,0 +1,14 @@
+C:\ProgramsC\C#\LR\GoodbyePlugin\bin\Debug\net7.0\GoodbyePlugin.deps.json
+C:\ProgramsC\C#\LR\GoodbyePlugin\bin\Debug\net7.0\GoodbyePlugin.runtimeconfig.json
+C:\ProgramsC\C#\LR\GoodbyePlugin\bin\Debug\net7.0\GoodbyePlugin.dll
+C:\ProgramsC\C#\LR\GoodbyePlugin\bin\Debug\net7.0\GoodbyePlugin.pdb
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.csproj.AssemblyReference.cache
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.AssemblyInfoInputs.cache
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.AssemblyInfo.cs
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.csproj.CoreCompileInputs.cache
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.dll
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\refint\GoodbyePlugin.dll
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.pdb
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\GoodbyePlugin.genruntimeconfig.cache
+C:\ProgramsC\C#\LR\GoodbyePlugin\obj\Debug\net7.0\ref\GoodbyePlugin.dll

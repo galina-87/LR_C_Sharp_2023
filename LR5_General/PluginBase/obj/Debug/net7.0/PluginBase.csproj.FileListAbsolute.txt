@@ -1,0 +1,12 @@
+C:\ProgramsC\C#\LR\PluginBase\bin\Debug\net7.0\PluginBase.deps.json
+C:\ProgramsC\C#\LR\PluginBase\bin\Debug\net7.0\PluginBase.dll
+C:\ProgramsC\C#\LR\PluginBase\bin\Debug\net7.0\PluginBase.pdb
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\PluginBase.csproj.AssemblyReference.cache
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\PluginBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\PluginBase.AssemblyInfoInputs.cache
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\PluginBase.AssemblyInfo.cs
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\PluginBase.csproj.CoreCompileInputs.cache
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\PluginBase.dll
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\refint\PluginBase.dll
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\PluginBase.pdb
+C:\ProgramsC\C#\LR\PluginBase\obj\Debug\net7.0\ref\PluginBase.dll

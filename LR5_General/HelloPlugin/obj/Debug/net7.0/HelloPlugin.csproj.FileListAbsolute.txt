@@ -1,0 +1,14 @@
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.csproj.AssemblyReference.cache
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.AssemblyInfoInputs.cache
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.AssemblyInfo.cs
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.csproj.CoreCompileInputs.cache
+C:\ProgramsC\C#\LR\HelloPlugin\bin\Debug\net7.0\HelloPlugin.deps.json
+C:\ProgramsC\C#\LR\HelloPlugin\bin\Debug\net7.0\HelloPlugin.runtimeconfig.json
+C:\ProgramsC\C#\LR\HelloPlugin\bin\Debug\net7.0\HelloPlugin.dll
+C:\ProgramsC\C#\LR\HelloPlugin\bin\Debug\net7.0\HelloPlugin.pdb
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.dll
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\refint\HelloPlugin.dll
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.pdb
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\HelloPlugin.genruntimeconfig.cache
+C:\ProgramsC\C#\LR\HelloPlugin\obj\Debug\net7.0\ref\HelloPlugin.dll
